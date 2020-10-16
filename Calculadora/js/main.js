@@ -1,7 +1,7 @@
+
 function calcular(tipo, valor){
     
-    // Pegando o valor do visor
-    var valor_visor = document.getElementById('resultado').value
+    let valor_visor = document.getElementById('resultado').value  // Pegando o valor do visor
 
     if(tipo === 'acao'){
 

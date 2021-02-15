@@ -1,2 +1,2 @@
-# Projetos---JavaScript
-Repositório para projetos feitos em JavaScript
+# Projetos JavaScript
+Repositório para Projetos Feitos em JavaScript
